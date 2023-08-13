@@ -11,4 +11,4 @@ Tech Blog following the MVC paradigm
 - Express
 
 ## License
-This application is licensed under the [MIT](LICENSE)
+This application is licensed under the [MIT](LICENSE) license.
